@@ -12,7 +12,7 @@ npm install
 npm run serve
 ```
 
-### Unit test
+### Unit Testing
 ```
 npm run test:unit
 ```
